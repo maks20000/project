@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="32px" height="42px" viewBox="0 0 32 42" enable-background="new 0 0 32 42" xml:space="preserve">
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#E2F0F5" d="M2.575,0h26.808c1.416,0,2.575,1.159,2.575,2.575v36.654
+	c0,1.416-1.159,2.574-2.575,2.574H2.575C1.159,41.803,0,40.645,0,39.229V2.575C0,1.159,1.159,0,2.575,0z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#BDD2DA" d="M15.904,0h13.479c1.416,0,2.575,1.159,2.575,2.575v36.654
+	c0,1.416-1.159,2.574-2.575,2.574H15.904V0z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#5C5CA8" d="M31.958,31.049v8.18c0,1.416-1.159,2.574-2.575,2.574H2.575
+	C1.159,41.803,0,40.645,0,39.229v-8.18H31.958z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#484FA1" d="M31.958,31.049v8.18c0,1.416-1.159,2.574-2.575,2.574H15.904
+	V31.049H31.958z"/>
+<rect x="6.377" y="6.108" fill-rule="evenodd" clip-rule="evenodd" fill="#5C5CA8" width="19.13" height="19.13"/>
+<rect x="15.969" y="6.108" fill-rule="evenodd" clip-rule="evenodd" fill="#484FA1" width="9.538" height="19.13"/>
+<rect x="8.614" y="8.345" fill-rule="evenodd" clip-rule="evenodd" fill="#E2F0F5" width="14.656" height="14.655"/>
+<rect x="15.969" y="8.345" fill-rule="evenodd" clip-rule="evenodd" fill="#BDD2DA" width="7.301" height="14.655"/>
+<text transform="matrix(0.9989 0 0 1 7.5029 39.4893)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'ArialMT'" font-size="7.674">T</tspan><tspan x="4.688" y="0" fill="#FFFFFF" font-family="'ArialMT'" font-size="7.674">IFF</tspan></text>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#484FA1" d="M16.929,16.404h4.45h0.404v0.404v4.449v0.405h-0.404h-4.45h-0.403
+	v-0.405v-4.449v-0.404H16.929L16.929,16.404z M20.975,17.213h-3.643v3.641h3.643V17.213z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#484FA1" d="M16.217,13.961c-0.658,0-1.252,0.267-1.683,0.697
+	c-0.431,0.431-0.696,1.025-0.696,1.683c0,0.656,0.266,1.251,0.696,1.682c0.43,0.43,1.025,0.697,1.683,0.697
+	c0.657,0,1.251-0.267,1.682-0.697c0.431-0.431,0.696-1.025,0.696-1.682c0-0.657-0.266-1.252-0.696-1.683
+	C17.468,14.228,16.874,13.961,16.217,13.961L16.217,13.961z M13.842,13.966c0.608-0.607,1.448-0.983,2.375-0.983
+	c0.927,0,1.766,0.376,2.374,0.983c0.606,0.607,0.983,1.447,0.983,2.375c0,0.927-0.377,1.766-0.983,2.374
+	c-0.608,0.607-1.447,0.983-2.374,0.983c-0.927,0-1.767-0.376-2.375-0.983c-0.607-0.608-0.982-1.447-0.982-2.374
+	C12.859,15.413,13.235,14.573,13.842,13.966z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" fill="#484FA1" d="M16.331,10.431l-0.404,2.834l-0.403,2.833l-0.098,0.69l-0.55-0.431
+	l-2.252-1.766l-2.252-1.766l-0.549-0.431l0.647-0.26l2.655-1.067l2.656-1.067l0.648-0.261L16.331,10.431L16.331,10.431z
+	 M15.127,13.151l0.305-2.142l-2.007,0.807l-2.009,0.808l1.703,1.335l1.704,1.335L15.127,13.151z"/>
+</svg>
